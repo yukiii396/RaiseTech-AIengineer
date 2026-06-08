@@ -37,8 +37,7 @@ Git / GitHub / プログラミングの基礎を学習しています。
 ---
 
 ## 🎯 Goal 
-
--　Pythonで簡単なアプリ作成
--　GitHubでポートフォリオ構築
--　engineerとして転職準備
+- Pythonで簡単なアプリ作成
+- GitHubでポートフォリオ構築
+- engineerとして転職準備
 
