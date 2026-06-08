@@ -1,31 +1,35 @@
 # RaiseTech-AIengineer
 
-## 👩‍💻 学習用リポジトリ
-
-GitとGitHubの学習記録を残しています。
-
----
-
-## 📚 学習ログ
-
-### 2026/06/08
-- GitHubのpushを学習
-- commit / pull / pushの流れを理解
-- エラー（not a git repository / push失敗）を解決
-- GitHubとの連携（remote / origin）を理解
-- 強制pushで履歴の違いを解決
+## 👩‍💻 プロフィール
+IT学習中のエンジニア志望です。  
+Git / GitHub / プログラミングの基礎を学習しています。
 
 ---
 
-## 🧠 学んだこと
-- Gitは「変更履歴を管理するツール」
-- commit = 保存ポイント
-- push = GitHubへ送る
-- pull = GitHubから取得
+## 📚 学習内容
+
+### Git / GitHub
+- リポジトリ作成
+- commit / push / pull の操作
+- GitHubとの連携（remote設定）
+- エラー対応（not a git repository / push失敗）
 
 ---
 
-## 🚀 今後やること
-- 小さなアプリ作成
-- Gitのbranch操作の練習
+## 🧠 できるようになったこと
+- Gitの基本操作（add / commit / push）
+- GitHubへの反映
+- エラーの自己解決
+
+---
+
+## 🚀 今後の目標
+- Pythonの基礎習得
+- 簡単なアプリ作成
+- Gitのbranch / pull request習得
 - ポートフォリオ作成
+
+---
+
+## 📅 更新履歴
+- 2026/06/08 GitHub連携・基本操作習得
