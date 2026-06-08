@@ -1,6 +1,6 @@
-# RaiseTech-AIengineer
+# 🚀　RaiseTech-AIengineer
 
-## 👩‍💻 プロフィール
+## 👩‍💻 About Me
 IT学習中のエンジニア志望です。  
 Git / GitHub / プログラミングの基礎を学習しています。
 
@@ -31,5 +31,14 @@ Git / GitHub / プログラミングの基礎を学習しています。
 
 ---
 
-## 📅 更新履歴
+## 📈 Learning Progress
 - 2026/06/08 GitHub連携・基本操作習得
+
+---
+
+## 🎯 Goal 
+
+-　Pythonで簡単なアプリ作成
+-　GitHubでポートフォリオ構築
+-　engineerとして転職準備
+
