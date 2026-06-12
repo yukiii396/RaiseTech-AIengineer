@@ -46,3 +46,6 @@ Git / GitHub / プログラミングの基礎を学習しています。
 ## ✏️ Test Branch
 - testブランチで編集中
 
+## 自己紹介
+ITengineerを目指して学習中です。
+GitとGitHubの練習をしています。
