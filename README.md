@@ -46,3 +46,5 @@ Git / GitHub / プログラミングの基礎を学習しています。
 ## ✏️ Test Branch
 - testブランチで編集中
 
+## Pull Request練習
+- testブランチで変更しました
